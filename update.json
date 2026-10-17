@@ -1,0 +1,18 @@
+{
+ "version": "3.3.2",
+ "electron": "44.4.6",
+ "date": "2026-10-16",
+ "notes": [
+  "je moeder",
+ ],
+ "page": "https://github.com/olik0495/lumen/releases/latest",
+ "assets": {
+  "browser": {
+   "file": "main.js",
+  },
+  "plain": {
+   "file": "main.js",
+  }
+ },
+ "signature": "jcVWTiBSgfOQoq5vkSHGj0IjjA9ZYdRK5XlHXxpHNoJgxQmEpPjXKiHuI56ZVSBlrmvc8RUXB4eY2xmtVB0nBg=="
+}
